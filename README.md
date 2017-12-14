@@ -20,6 +20,19 @@ pickle
 matplotlib
 ```
 
+as in
+
+```Python
+import pandas as pd
+import quandl, math, datetime
+import numpy as np
+from sklearn import preprocessing, cross_validation, svm
+from sklearn.linear_model import LinearRegression
+import matplotlib.pyplot as plt
+from matplotlib import style
+import pickle
+```
+
 ## Acknowledgements
 
 * This project is inspired by and built upon fundamentals of [Sentdex](http://sentdex.com/)
